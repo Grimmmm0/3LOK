@@ -53,13 +53,6 @@ To install and run the Tri-Slides 1Loc app locally, follow these steps:
 6. **Enjoy the Game**  
    Have fun while enhancing your knowledge of the Philippines!
 
-## Screenshots
-
-![Gameplay Screenshot](assets/gameplay/landing.png)
-![Gameplay Screenshot](assets/gameplay/about.png)
-![Gameplay Screenshot](assets/gameplay/instructions.png)
-![Gameplay Screenshot](assets/gameplay/categories.png)
-*Gameplay screenshots*
 
 ## Features
 
